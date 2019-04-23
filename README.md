@@ -27,5 +27,5 @@ $ composer install
 $ make run
 ```
 
-* Now you can simulate the query for search by using [query.sql][./sql/query.sql] file
+* Now you can simulate the query for search by using [query.sql](./sql/query.sql) file
 * Enjoy

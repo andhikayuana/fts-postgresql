@@ -1,0 +1,22 @@
+{
+    "name": "andhikayuana/fts-postgresql",
+    "description": "full text search demonstrations using postgresql",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andhikayuana",
+            "email": "andhikayuana@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vrana/notorm": "dev-master",
+        "vlucas/phpdotenv": "^3.3@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yuana\\": "src/"
+        }
+    }
+}

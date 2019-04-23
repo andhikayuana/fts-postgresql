@@ -1,5 +1,7 @@
 # PostgreSQL Full Text Search Demo
 
+Full Text Search Demo using PosgreSQL, slides [here](http://slides.com/andhikayuana/full-text-search-using-postgresql)
+
 ## Requirements
 
 * PHP
